@@ -1995,9 +1995,9 @@
   integrity sha512-/Ak6AcY4KfBMSnqOxQ2drQZVXDAAwfnUi2/PxPepz9tSAl6GC5o7H5WnDRJqXClRcw8n4Q+Dm9uSl8L5mvV96A==
 
 "@react-three/drei@^2.2.7":
-  version "2.2.16"
-  resolved "https://registry.yarnpkg.com/@react-three/drei/-/drei-2.2.16.tgz#dfe1c616bbc0f53bd3a655a1d196936430b4f33d"
-  integrity sha512-VGtILwCkvDqoIxm8WfR2UyTbJUPG+2S6lG49sRl7N51Awg2RRSvl+UxgiQPcfYFcec3n/avsElKqJoMqd59DUA==
+  version "2.2.17"
+  resolved "https://registry.yarnpkg.com/@react-three/drei/-/drei-2.2.17.tgz#96f20d4f4f935b6bf0176d14a7048b9084cfcd73"
+  integrity sha512-Hfp9Eh5oVr7wl1x9lPGaVou35J52K2BHkdc6PQ/vfdKKyUfXhfuroW7sP7OH51UkyUNAa2TPPTDIiZxuHYL2Lw==
   dependencies:
     "@babel/runtime" "^7.11.2"
     "@react-spring/web" "^9.0.0-rc.3"
